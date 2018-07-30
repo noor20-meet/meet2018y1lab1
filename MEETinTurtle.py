@@ -33,7 +33,7 @@ turtle.penup()
 turtle.goto(100,100)
 turtle.pendown()
 turtle.goto(100,-100)
-
+turtle.goto(100+100,-100)
 
 # ...and end it before the next line.
 turtle.mainloop()
